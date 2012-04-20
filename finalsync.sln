@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\finalsync\", "..\..\WebSites\finalsync\", "{FDB01961-DC83-4919-83AA-894EB1A90D9E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/finalsync"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\finalsync\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\finalsync\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/finalsync"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\finalsync\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\finalsync\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3404"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB01961-DC83-4919-83AA-894EB1A90D9E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FDB01961-DC83-4919-83AA-894EB1A90D9E}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

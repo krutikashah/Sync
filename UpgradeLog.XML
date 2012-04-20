@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="finalsync">
+</Property><Property Name="Solution File" Value="G:\Backup\check\finalsync\finalsync.sln">
+</Property><Property Name="Date" Value="Thursday, October 01, 2009">
+</Property><Property Name="Time" Value="23:02 PM">
+</Property></Properties><Event ErrorLevel="2" Project="C:\...\finalsync\" Source="..\..\WebSites\finalsync\" Description="The operation could not be completed. Element not found. ">
+</Event><Event ErrorLevel="0" Project="" Source="finalsync.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="finalsync.sln" Description="Converted">
+</Event></UpgradeLog>
